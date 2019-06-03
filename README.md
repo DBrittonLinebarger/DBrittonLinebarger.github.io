@@ -4,7 +4,7 @@ E-mail: dblinebarger@gmail.com
 
 ## Objective  
 
-some text
+	Internship or Entry Level opportunity in software development.
 
 
 
@@ -27,7 +27,8 @@ Computer Concepts and Software Applications (Fall 2016)
 Associates of Arts & Science (In Progress)  
 Computer Information Systems  
 Computer Programming Concentration  
-Central New Mexico Community College  
+Central New Mexico Community College 
+
 
 
 ## Links  
