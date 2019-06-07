@@ -1,4 +1,4 @@
-### Denelle Britton Linebarger
+# Denelle Britton Linebarger
  PO Box 50027, Albuquerque, NM 87181 | 505-681-4665 | dblinebarger@gmail.com
 
 ## Objective
@@ -8,7 +8,10 @@
 ## Education
 ASSOCIATE OF ARTS | IN PROGESS | CENTRAL NEW MEXICO COMMUNITY COLLEGE
 •	Major: Computer Programming
+
 •	Minor: Digital Marketing
+
+
 DEEP DIVE CODING BOOTCAMP | IN PROGRESS | CNM INGENUITY
 •	Course: Java+Android
 
