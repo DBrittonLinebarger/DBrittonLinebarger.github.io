@@ -8,6 +8,7 @@
    
 [Denelle Britton Linebarger @LinkedIn](https://www.linkedin.com/in/denelle-b-ba7629183/)  
 [Resume](resume.md)  
+[PDF of Resume](Denelle Britton Linebarger Resume.pdf)  
 [Conept Map Activity](conceptmap.pdf)  
 
 
