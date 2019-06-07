@@ -52,17 +52,22 @@ Hi. My name is Denelle. I am a student in the Java+Android Deep Dive Coding Boot
 ### Weekly Reflections
 
 ### Week One  
-As a new Java student, the readings in the text are
+As a new Java student, I learned this week that there is much to learn. The readings in the text and tutorials on Lynda have been helpful.
 
 ### Week Two
 After watching a few tutorials about Intelij, I am much more comfortable working with the IDE. 
 
-### Week Three
+### Week Three 
+There has been a lot of material covered and concepts to take in over the last three weeks. This week things are beginning to make 
+more sense.  Now when I read or reread the chapters assigned for homework, the concepts are much clearer.
+
 
 
 ## Links  
    
 [Denelle Britton Linebarger @LinkedIn](https://www.linkedin.com/in/denelle-b-ba7629183/)  
+[Resume](resume.md)
+
 
 
 
