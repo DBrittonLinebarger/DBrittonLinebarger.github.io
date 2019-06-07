@@ -4,6 +4,15 @@
 ## Pro Dev Activities
 
 
+## Links  
+   
+[Denelle Britton Linebarger @LinkedIn](https://www.linkedin.com/in/denelle-b-ba7629183/)  
+[Resume](resume.md) 
+[Conept Map Activity](
+
+
+
+
 ### My Learning Style
 
 ### Auditory
@@ -63,10 +72,7 @@ more sense.  Now when I read or reread the chapters assigned for homework, the c
 
 
 
-## Links  
-   
-[Denelle Britton Linebarger @LinkedIn](https://www.linkedin.com/in/denelle-b-ba7629183/)  
-[Resume](resume.md)
+
 
 
 
