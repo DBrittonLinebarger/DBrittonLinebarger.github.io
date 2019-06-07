@@ -1,33 +1,45 @@
-# Denelle Britton Linebarger  
-Phone: (505) 681-4665  
-E-mail: dblinebarger@gmail.com  
+### Denelle Britton Linebarger
+ PO Box 50027, Albuquerque, NM 87181 | 505-681-4665 | dblinebarger@gmail.com
 
-## Objective  
-
-	Internship or Entry Level opportunity in software development.
+## Objective
+•	Internship or Entry Level opportunity in software development.
 
 
+## Education
+ASSOCIATE OF ARTS | IN PROGESS | CENTRAL NEW MEXICO COMMUNITY COLLEGE
+•	Major: Computer Programming
+•	Minor: Digital Marketing
+DEEP DIVE CODING BOOTCAMP | IN PROGRESS | CNM INGENUITY
+•	Course: Java+Android
 
-## Relevant Coursework/Experience  
 
-Deep Dive Coding Java + Android Bootcamp (in progresss)  
-Introduction to Digital Media (Fall 2018)  
-Visual Communication (Fall 2018)  
-Photoshop (Fall 2018)  
-Python Programming I (Spring 2017)  
-C++ Programming I (Spring 2017)  
-Linux Essentials (Spring 2017)  
-Introduction to SQL (Structured Query Language) ) (Spring 2017)  
-IT Essentials I: PC Hardware and Software (Spring 2017)  
-Database Design and Introduction to SQL (Fall 2016)  
-Computer Concepts and Software Applications (Fall 2016)    
+## COURSEWORK COMPLETED
+•	Database Design and Introduction to SQL      	
+•	C++ Programming I 
+•	Linux Essentials  
+•	Python Programming I
+•	Introduction to SQL  
+•	IT Essentials I: PC Hardware and Software   
+•	Introduction to Digital Media 
+•	Visual Communication 
+•	Photoshop 
 
-## Education  
+## OTHER SKILLS
+•	Strong organizational, multi-tasking and time management skills
+•	Well-developed research and planning skills
+•	Ability to establish rapport with multicultural population 
+•	Languages:  English (Native) Spanish (Basic Proficiency)
 
-Associates of Arts & Science (In Progress)  
-Computer Information Systems  
-Computer Programming Concentration  
-Central New Mexico Community College 
+
+## Experience
+
+
+Elementary School Teacher				8/2013-5/2015
+Coronado Elementary School, Albuquerque, NM
+
+Elementary School Teacher				8/2012-5/2013
+Matheson Park Elementary School, Albuquerque, NM
+
 
 
 
