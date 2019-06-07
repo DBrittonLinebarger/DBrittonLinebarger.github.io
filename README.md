@@ -4,7 +4,7 @@
 ## Pro Dev Activities
 
 
-## My Learning Style
+### My Learning Style
 
 ### Auditory
 50% Auditory  
@@ -49,7 +49,15 @@ Ask: What are you working on?
 Hi. My name is Denelle. I am a student in the Java+Android Deep Dive Coding Bootcamp. I enjoy helping people reach their potential. I hope to learn how to develop software that makes a difference in the lives of others.
 
 
+### Weekly Reflections
 
+### Week One  
+As a new Java student, the readings in the text are
+
+### Week Two
+After watching a few tutorials about Intelij, I am much more comfortable working with the IDE. 
+
+### Week Three
 
 
 ## Links  
