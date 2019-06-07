@@ -8,7 +8,7 @@
    
 [Denelle Britton Linebarger @LinkedIn](https://www.linkedin.com/in/denelle-britton-linebarger/)  
 [Resume](resume.md)   
-[Conept Map Activity](conceptmap.pdf)  
+[Concept Map Activity](conceptmap.pdf)  
 
 
 
