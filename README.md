@@ -1,7 +1,7 @@
 # Denelle Britton Linebarger
-# Professional Development
+## Professional Development
 
-# Pro Dev Activities
+## Pro Dev Activities
 
 
 ## My Learning Style
