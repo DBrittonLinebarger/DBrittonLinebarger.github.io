@@ -1,55 +1,53 @@
 # Denelle Britton Linebarger
- PO Box 50027, Albuquerque, NM 87181 | 505-681-4665 | dblinebarger@gmail.com
+# Professional Development
 
-## Objective
-   Internship or Entry Level opportunity in software development.
-
-
-## Education
-ASSOCIATE OF ARTS | IN PROGESS | CENTRAL NEW MEXICO COMMUNITY COLLEGE\
-
-•	Major: Computer Programming
-
-•	Minor: Digital Marketing
+# Pro Dev Activities
 
 
-DEEP DIVE CODING BOOTCAMP | IN PROGRESS | CNM INGENUITY
+## My Learning Style
 
-•	Course: Java+Android
-
-
-## COURSEWORK COMPLETED
-•	Database Design and Introduction to SQL
-•	C++ Programming I 
-•	Linux Essentials 
-•	Python Programming I
-•	Introduction to SQL 
-•	IT Essentials I: PC Hardware and Software 
-•	Introduction to Digital Media 
-•	Visual Communication 
-•	Photoshop 
+### Auditory
+50% Auditory  
+30% Visual  
+20% Tactile  
 
 
-## OTHER SKILLS
-•	Strong organizational, multi-tasking and time management skills
+### Three Quantitative Accomplishments  
+•	Taught workshop on Reading to 15 parents in Mexico City during a mission trip  
+•	Increased student performance on state assessment by 43%.  
+•	Increased student performance on district assessments by 56%.  
 
-•	Well-developed research and planning skills
+### Three Qualitative Features about Self (strength/weakness of each)  
+•	Dedicated  
+Strength: Fulfill Obligations   Weakness: Others may take advantage of it  
+•	Detail Oriented  
+Strength: Avoid careless mistakes Weakness: Tunnel Vision  
+•	Flexible   
+Strength: Able to adjust as needed Weakness: Too accommodating  
 
-•	Ability to establish rapport with multicultural population 
 
-•	Languages:  English (Native) Spanish (Basic Proficiency)
+### Passion Project    
+I enjoy teaching and working with parents to help them meet the educational needs of their children. The church I attend has a partner church in Mexico. Two summers ago, I went on a mission trip to Mexico City sponsored by my church. I taught English through games to the kids who attended our summer camp and conducted a Reading workshop for parents.  
+	
 
+### Golden Circles (professional)  
 
-## Experience
+Why Circle: make a difference in people's lives  
+How Circle: develop software that improves the lives of others  
+What Circle: student in Deep Dive Coding Bootcamp
 
+ 
+### Elevator Speech
+Name : What : Why : How : Ask
+Draft V1
+Name:  Denelle Linebarger.
+What:  Student in Deep Dive Coding Bootcamp
+Why: Make a difference in people’s lives
+How: Develop software
+Ask: What are you working on?  
 
-Elementary School Teacher  
-8/2013-5/2015  
-Coronado Elementary School, Albuquerque, NM
+Hi. My name is Denelle. I am a student in the Java+Android Deep Dive Coding Bootcamp. I enjoy helping people reach their potential. I hope to learn how to develop software that makes a difference in the lives of others.
 
-Elementary School Teacher  
-8/2012-5/2013  
-Matheson Park Elementary School, Albuquerque, NM
 
 
 
