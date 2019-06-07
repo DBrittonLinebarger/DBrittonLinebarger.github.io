@@ -54,9 +54,7 @@ Matheson Park Elementary School, Albuquerque, NM
 
 
 
-## Links  
-   
-[Denelle Britton Linebarger @LinkedIn](https://www.linkedin.com/in/denelle-b-ba7629183/)  
+
 
 
 
