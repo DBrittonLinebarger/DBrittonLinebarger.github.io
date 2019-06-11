@@ -58,6 +58,12 @@ Ask: What are you working on?
 
 Hi. My name is Denelle. I am a student in the Java+Android Deep Dive Coding Bootcamp. I enjoy helping people reach their potential. I hope to learn how to develop software that makes a difference in the lives of others.
 
+6/11/2019  
+### Visual Speaks  
+
+Right now I am in the midst of a career change. While there is still some uncertainty, I am determined to get the skills I need to make a good transition.  
+
+
 
 ### Weekly Reflections
 
