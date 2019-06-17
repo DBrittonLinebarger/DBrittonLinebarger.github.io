@@ -8,7 +8,8 @@
    
 [Denelle Britton Linebarger @LinkedIn](https://www.linkedin.com/in/denelle-britton-linebarger/)  
 [Resume](resume.md)   
-[Concept Map Activity](conceptmap.pdf)  
+[Concept Map Activity](conceptmap.pdf)   
+[Visual Speak](pro_dev_pic.pdf)
 
 
 
@@ -77,6 +78,9 @@ After watching a few tutorials about Intelij, I am much more comfortable working
 There has been a lot of material covered and concepts to take in over the last three weeks. This week things are beginning to make 
 more sense.  Now when I read or reread the chapters assigned for homework, the concepts are much clearer.
 
+
+### Week Four
+This week the trip to FatPipe provided an opportunity to start networking with some of the people who attended. It also gave me a chance to "try on" my new identity as a developer.  It was a little strange at first, but got easier with each person I interacted with.  It was a great opportunity.
 
 
 
