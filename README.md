@@ -64,6 +64,10 @@ Hi. My name is Denelle. I am a student in the Java+Android Deep Dive Coding Boot
 
 Right now I am in the midst of a career change. While there is still some uncertainty, I am determined to get the skills I need to make a good transition.  
 
+6/18/2019
+### Collaborative Game Reflection  
+Our team worked well together on this game.  
+
 
 
 ### Weekly Reflections
