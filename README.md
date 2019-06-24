@@ -87,6 +87,9 @@ more sense.  Now when I read or reread the chapters assigned for homework, the c
 This week the trip to FatPipe provided an opportunity to start networking with some of the people who attended. It also gave me a chance to "try on" my new identity as a developer.  It was a little strange at first, but got easier with each person I interacted with.  It was a great opportunity.
 
 
+### Week Five
+This vweek was a turning point.  The material is making more sense as we work through the in-class projects. I am also making reasonable progress on finding resources for my personal android project.  
+
 
 
 
