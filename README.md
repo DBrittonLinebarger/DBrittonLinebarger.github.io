@@ -88,7 +88,7 @@ This week the trip to FatPipe provided an opportunity to start networking with s
 
 
 ### Week Five
-This vweek was a turning point.  The material is making more sense as we work through the in-class projects. I am also making reasonable progress on finding resources for my personal android project.  
+This week was a turning point.  The material is making more sense as we work through the in-class projects. I am also making reasonable progress on finding resources for my personal android project.  
 
 
 
