@@ -68,6 +68,19 @@ Right now I am in the midst of a career change. While there is still some uncert
 ### Collaborative Game Reflection  
 Our team worked well together on this game.  
 
+6/25/2019
+### Stove Top Activity (Extra Credit Step
+?? How will you get there?
+
+### Find 2 Orgs (non-profit/for-profit)
+* Name of Org    
+* Targeted Contact  
+* Contact Info  
+* Url to their site  
+* A short blurb on why you selected this company  
+* Strategey fro reaching out to this person    
+
+* How I would add value
 
 
 ### Weekly Reflections
