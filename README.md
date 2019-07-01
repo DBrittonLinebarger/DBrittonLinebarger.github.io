@@ -104,6 +104,9 @@ This week the trip to FatPipe provided an opportunity to start networking with s
 This week was a turning point.  The material is making more sense as we work through the in-class projects. I am also making reasonable progress on finding resources for my personal android project.  
 
 
+### Week Six
+This week I spent most of my time working on my personal adroid project.  It was a mixed bag of frustration and satisfaction. Many hours were spent trying to fix things that worked and then didn't when I made any adjustments. Fortunately, by the end of the week I was able to meet the deadline for the second deliverable on the project. That was very satisfying. Now onto the next stage. 
+
 
 
 
