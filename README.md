@@ -72,15 +72,15 @@ Our team worked well together on this game.
 ### Stove Top Activity (Extra Credit Step
 ?? How will you get there?
 
-### Find 2 Orgs (non-profit/for-profit)
-* Name of Org    
-* Targeted Contact  
-* Contact Info  
-* Url to their site  
-* A short blurb on why you selected this company  
-* Strategey fro reaching out to this person    
+### Organization Outreach
 
-* How I would add value
+* Name of Org: CNM Office of Digital Strategy and ITS  
+* Targeted Contact: Steve Byers/Joshua Escareno  
+* Contact Info : sbeyers5@cnm.edu or jescareno1@cnm.edu  
+* Web Contact for Organization: https://www.cnm.edu/depts/office-of-digital-strategy/about-us  
+* Reason for selecting this company : it would be interesting to see what career paths are available at CNM in DevOps.  
+* Strategy for reaching out to this person : email or take a trip over to CNM to get more information.  
+* How I would add value : Given my background in education, and now some experience with programming/app development I would be able to communicate and work with a wide array of stakeholders.
 
 
 ### Weekly Reflections
