@@ -10,7 +10,7 @@
 [Resume](resume.md)   
 [Concept Map Activity](conceptmap.pdf)   
 [Visual Speak](pro_dev_pic.pdf)  
-[Stovetop Activity](stove top.pdf)  
+[Stove Top Activity](stove_top.pdf)  
 
 
 
