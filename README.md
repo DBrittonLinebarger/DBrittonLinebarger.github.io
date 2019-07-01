@@ -9,7 +9,10 @@
 [Denelle Britton Linebarger @LinkedIn](https://www.linkedin.com/in/denelle-britton-linebarger/)  
 [Resume](resume.md)   
 [Concept Map Activity](conceptmap.pdf)   
-[Visual Speak](pro_dev_pic.pdf)
+[Visual Speak](pro_dev_pic.pdf)  
+[Stovetop Activity](stove top.pdf)  
+
+
 
 
 
