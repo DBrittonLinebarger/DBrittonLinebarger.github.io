@@ -110,6 +110,26 @@ This week was a turning point.  The material is making more sense as we work thr
 ### Week Six
 This week I spent most of my time working on my personal adroid project.  It was a mixed bag of frustration and satisfaction. Many hours were spent trying to fix things that worked and then didn't when I made any adjustments. Fortunately, by the end of the week I was able to meet the deadline for the second deliverable on the project. That was very satisfying. Now onto the next stage. 
 
+### Week Seven    
+Continued to work on personal Android project this week.  The shorter "work" week meant I had more time to focus on getting the app to function.  This was also the second week of mindfulness and I found the strategies to be helpful.
+
+### Week Eight  
+This week we had test 2 and I learned from the mistakes I made in the first one. This time I put some of those mindfulness strategies to work  too and it was a better experience.  
+
+### Week Nine   
+This was a stressful week, as the deadline for submitting the personal Android project approaches. The app is in good shape, but there is so much more I would like it to do. This has been quite a learning experience as it is the first Android app I have developed.
+
+### Week Ten    
+This week ended with mock interviews.  Even though they were "mock" interviews, I was really worried about the technical interview in particular.  The process went better than I had anticipated and the feedback was invaluable.
+
+### Week Eleven
+Preparation for the final deliverable for the capstone projectj is in full swing, as that deadline looms.  We also spent time preparing for the round table presentation next week. I find that the experiences from the personal Android project are helping with the capstone.
+
+
+
+
+
+
 
 
 
